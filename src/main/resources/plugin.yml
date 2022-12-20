@@ -1,0 +1,8 @@
+name: OreDetector
+version: 1.0
+api-version: 1.19
+main: fr.breack.main.Main
+depend: [SmartInvs]
+
+commands:
+  GiveOreDetector:
